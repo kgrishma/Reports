@@ -1,0 +1,299 @@
+
+                                      ARENA Simulation Results
+                                    spstech - License: 2957005769
+
+                                  Summary for Replication 1 of 5
+
+Project: Unnamed Project                                             Run execution date :12/ 4/2023
+Analyst: Admin                                                       Model revision date:12/ 4/2023
+
+Replication ended at time      : 120.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                             2.3586     (Insuf)    1.2519     3.2855         39    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000         39    
+Customer.WaitTime                           19.533     (Insuf)    .00000     58.096         39    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000         39    
+Customer.OtherTime                          .00000     (Insuf)    .00000     .00000         39    
+Customer.TotalTime                          21.892     (Insuf)    1.4866     61.191         39    
+Staff making Beverages.Queue.WaitingTime    .41676     (Insuf)    .41676     .41676          1    
+Billing Counter.Queue.WaitingTime           5.7755     (Insuf)    .00000     13.838         39    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                7.8108     (Insuf)    .00000     12.000     7.0000    
+Beverage_Maker.NumberBusy                   .82454     (Insuf)    .00000     1.0000     .00000    
+Beverage_Maker.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Beverage_Maker.Utilization                  .82454     (Insuf)    .00000     1.0000     .00000    
+Cashier.NumberBusy                          1.5331     (Insuf)    .00000     2.0000     .00000    
+Cashier.NumberScheduled                     2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Cashier.Utilization                         .76655     (Insuf)    .00000     1.0000     .00000    
+Staff making Beverages.Queue.NumberInQueue  .00347     (Insuf)    .00000     1.0000     .00000    
+Billing Counter.Queue.NumberInQueue         1.8770     (Insuf)    .00000     6.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           46.000    
+Customer.NumberOut                          39.000    
+Beverage_Maker.NumberSeized                 40.000    
+Beverage_Maker.ScheduledUtilization         .82454    
+Cashier.NumberSeized                        78.000    
+Cashier.ScheduledUtilization                .76655    
+System.NumberOut                            39.000    
+
+Beginning replication 2 of 5
+
+                                      ARENA Simulation Results
+                                    spstech - License: 2957005769
+
+                                  Summary for Replication 2 of 5
+
+Project: Unnamed Project                                             Run execution date :12/ 4/2023
+Analyst: Admin                                                       Model revision date:12/ 4/2023
+
+Replication ended at time      : 120.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                             2.3868     (Insuf)    1.2928     3.2374         36    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000         36    
+Customer.WaitTime                           20.895     (Insuf)    .00000     50.785         36    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000         36    
+Customer.OtherTime                          .00000     (Insuf)    .00000     .00000         36    
+Customer.TotalTime                          23.282     (Insuf)    1.4279     53.962         36    
+Staff making Beverages.Queue.WaitingTime    5.8089     (Insuf)    5.8089     5.8089          1    
+Billing Counter.Queue.WaitingTime           5.9524     (Insuf)    .00000     18.460         37    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                8.8728     (Insuf)    .00000     14.000     12.000    
+Beverage_Maker.NumberBusy                   .77932     (Insuf)    .00000     1.0000     1.0000    
+Beverage_Maker.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Beverage_Maker.Utilization                  .77932     (Insuf)    .00000     1.0000     1.0000    
+Cashier.NumberBusy                          1.4552     (Insuf)    .00000     2.0000     2.0000    
+Cashier.NumberScheduled                     2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Cashier.Utilization                         .72763     (Insuf)    .00000     1.0000     1.0000    
+Staff making Beverages.Queue.NumberInQueue  .13483     (Insuf)    .00000     2.0000     2.0000    
+Billing Counter.Queue.NumberInQueue         2.0530     (Insuf)    .00000     7.0000     3.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           48.000    
+Customer.NumberOut                          36.000    
+Beverage_Maker.NumberSeized                 38.000    
+Beverage_Maker.ScheduledUtilization         .77932    
+Cashier.NumberSeized                        74.000    
+Cashier.ScheduledUtilization                .72763    
+System.NumberOut                            36.000    
+
+Beginning replication 3 of 5
+
+                                      ARENA Simulation Results
+                                    spstech - License: 2957005769
+
+                                  Summary for Replication 3 of 5
+
+Project: Unnamed Project                                             Run execution date :12/ 4/2023
+Analyst: Admin                                                       Model revision date:12/ 4/2023
+
+Replication ended at time      : 120.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                             2.3333     (Insuf)    1.5158     3.2242         32    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000         32    
+Customer.WaitTime                           36.934     (Insuf)    10.963     64.419         32    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000         32    
+Customer.OtherTime                          .00000     (Insuf)    .00000     .00000         32    
+Customer.TotalTime                          39.267     (Insuf)    13.191     67.135         32    
+Staff making Beverages.Queue.WaitingTime    7.9344     (Insuf)    .61102     15.915          5    
+Billing Counter.Queue.WaitingTime           19.590     (Insuf)    .00000     26.293         32    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                13.233     (Insuf)    .00000     18.000     16.000    
+Beverage_Maker.NumberBusy                   .87001     (Insuf)    .00000     1.0000     1.0000    
+Beverage_Maker.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Beverage_Maker.Utilization                  .87001     (Insuf)    .00000     1.0000     1.0000    
+Cashier.NumberBusy                          1.2444     (Insuf)    .00000     2.0000     .00000    
+Cashier.NumberScheduled                     2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Cashier.Utilization                         .62221     (Insuf)    .00000     1.0000     .00000    
+Staff making Beverages.Queue.NumberInQueue  .33488     (Insuf)    .00000     1.0000     1.0000    
+Billing Counter.Queue.NumberInQueue         6.1359     (Insuf)    .00000     12.000     9.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           48.000    
+Customer.NumberOut                          32.000    
+Beverage_Maker.NumberSeized                 37.000    
+Beverage_Maker.ScheduledUtilization         .87001    
+Cashier.NumberSeized                        64.000    
+Cashier.ScheduledUtilization                .62221    
+System.NumberOut                            32.000    
+
+Beginning replication 4 of 5
+
+                                      ARENA Simulation Results
+                                    spstech - License: 2957005769
+
+                                  Summary for Replication 4 of 5
+
+Project: Unnamed Project                                             Run execution date :12/ 4/2023
+Analyst: Admin                                                       Model revision date:12/ 4/2023
+
+Replication ended at time      : 120.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                             2.5423     (Insuf)    1.6574     3.1776         32    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000         32    
+Customer.WaitTime                           28.903     (Insuf)    4.4264     62.672         32    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000         32    
+Customer.OtherTime                          .00000     (Insuf)    .00000     .00000         32    
+Customer.TotalTime                          31.445     (Insuf)    6.3604     64.895         32    
+Staff making Beverages.Queue.WaitingTime    5.1991     (Insuf)    .00000     8.1905          3    
+Billing Counter.Queue.WaitingTime           13.066     (Insuf)    .00000     27.809         33    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                11.593     (Insuf)    .00000     17.000     16.000    
+Beverage_Maker.NumberBusy                   .97009     (Insuf)    .00000     1.0000     1.0000    
+Beverage_Maker.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Beverage_Maker.Utilization                  .97009     (Insuf)    .00000     1.0000     1.0000    
+Cashier.NumberBusy                          1.3699     (Insuf)    .00000     2.0000     2.0000    
+Cashier.NumberScheduled                     2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Cashier.Utilization                         .68497     (Insuf)    .00000     1.0000     1.0000    
+Staff making Beverages.Queue.NumberInQueue  .12998     (Insuf)    .00000     1.0000     .00000    
+Billing Counter.Queue.NumberInQueue         4.5457     (Insuf)    .00000     11.000     9.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           48.000    
+Customer.NumberOut                          32.000    
+Beverage_Maker.NumberSeized                 36.000    
+Beverage_Maker.ScheduledUtilization         .97009    
+Cashier.NumberSeized                        66.000    
+Cashier.ScheduledUtilization                .68497    
+System.NumberOut                            32.000    
+
+Beginning replication 5 of 5
+
+                                      ARENA Simulation Results
+                                    spstech - License: 2957005769
+
+                                  Summary for Replication 5 of 5
+
+Project: Unnamed Project                                             Run execution date :12/ 4/2023
+Analyst: Admin                                                       Model revision date:12/ 4/2023
+
+Replication ended at time      : 120.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                             2.3023     (Insuf)    1.4267     3.2051         32    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000         32    
+Customer.WaitTime                           24.952     (Insuf)    4.8080     50.359         32    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000         32    
+Customer.OtherTime                          .00000     (Insuf)    .00000     .00000         32    
+Customer.TotalTime                          27.255     (Insuf)    6.9955     53.189         32    
+Staff making Beverages.Queue.WaitingTime    6.4376     (Insuf)    1.4453     13.138          4    
+Billing Counter.Queue.WaitingTime           8.7285     (Insuf)    .00000     18.681         33    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                9.7162     (Insuf)    .00000     17.000     14.000    
+Beverage_Maker.NumberBusy                   .82685     (Insuf)    .00000     1.0000     1.0000    
+Beverage_Maker.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Beverage_Maker.Utilization                  .82685     (Insuf)    .00000     1.0000     1.0000    
+Cashier.NumberBusy                          1.2531     (Insuf)    .00000     2.0000     2.0000    
+Cashier.NumberScheduled                     2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Cashier.Utilization                         .62659     (Insuf)    .00000     1.0000     1.0000    
+Staff making Beverages.Queue.NumberInQueue  .32730     (Insuf)    .00000     2.0000     2.0000    
+Billing Counter.Queue.NumberInQueue         2.6127     (Insuf)    .00000     8.0000     6.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           46.000    
+Customer.NumberOut                          32.000    
+Beverage_Maker.NumberSeized                 37.000    
+Beverage_Maker.ScheduledUtilization         .82685    
+Cashier.NumberSeized                        66.000    
+Cashier.ScheduledUtilization                .62659    
+System.NumberOut                            32.000    
+
+
+                                      ARENA Simulation Results
+                                    spstech - License: 2957005769
+
+                                  Output Summary for 5 Replications
+
+Project: Unnamed Project                                             Run execution date :12/ 4/2023
+Analyst: Admin                                                       Model revision date:12/ 4/2023
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Customer.NumberIn                           47.200     1.3599     46.000     48.000     5
+Customer.NumberOut                          34.200     3.9649     32.000     39.000     5
+Beverage_Maker.NumberSeized                 37.600     1.8827     36.000     40.000     5
+Beverage_Maker.ScheduledUtilization         .85416     .08977     .77932     .97009     5
+Cashier.NumberSeized                        69.600     7.5311     64.000     78.000     5
+Cashier.ScheduledUtilization                .68559     .07807     .62221     .76655     5
+System.NumberOut                            34.200     3.9649     32.000     39.000     5
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.
